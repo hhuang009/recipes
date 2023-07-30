@@ -1,0 +1,58 @@
+*{
+    padding:0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: aquamarine;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3rem;
+    padding: 5px 0;
+}
+
+aside{
+    float: left;
+    margin: 2%;
+    margin-left: 1%;
+}
+
+ 
+ul{
+    font-size: 25px;
+    margin-left: 3%;
+}
+
+
+p{
+    font-size: 1.7rem;
+}
+
+h3{
+    font-size: 1.8rem;
+}
+
+footer{
+    text-align: end;
+    margin: 2%;
+    font-size: 1.5rem;
+}
+
+a{
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 1.5%;
+    background-color: antiquewhite;
+}
+
+a:hover, a:focus{
+    background-color: dodgerblue;
+}
+section{
+    border: 3px solid black;
+    padding: 10px 5px 5px 5px;
+}
+
+
+
