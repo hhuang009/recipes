@@ -12,9 +12,18 @@ header{
     padding: 5px 0;
 }
 
+span{
+    color: red;
+    font-style:italic;
+}
+
+h2{
+    font-size: 3rem;
+}
+
 aside{
     float: left;
-    margin: 2%;
+    margin: 3%;
     margin-left: 1%;
 }
 
@@ -24,18 +33,10 @@ ul{
     margin-left: 3%;
 }
 
-
-p{
-    font-size: 1.7rem;
+figcaption{
+    font-size: 30px;
 }
 
-h2{
-    font-size: 2rem;
-}
-
-h3{
-    font-size: 1.8rem;
-}
 
 footer{
     text-align: end;
@@ -56,11 +57,15 @@ a:hover, a:focus{
 
 section{
     border: 3px solid black;
-    padding: 10px 5px 5px 5px;
+    padding: 10px 5px 5px 10px;
 }
 
+ol{
+   font-size: 2rem;
+}
 
-
-
-
-
+img{
+    width: auto;
+    height: 340px;
+    padding-top: 2%;
+}
